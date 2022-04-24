@@ -1,0 +1,48 @@
+
+body{
+
+    margin:0;
+    text-align: center;
+    background-color: #A9C6DE;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Niconne', cursive;
+    font-size: 50px;
+}
+.top{
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.topcloud{
+    height: 150px;
+    width: 150px;
+position:absolute;
+left: 150px;
+top: 20px;
+}
+.bottomcloud{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    right :100px
+}
+.mountain{
+    height: 500px;
+}
+.profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.chess{
+    width: 250px;
+    aspect-ratio: 1/1.25;
+}
+.learning{
+    width: 250px;
+    aspect-ratio: 1/1;
+}
